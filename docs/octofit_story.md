@@ -33,6 +33,14 @@ Together, Paul and the IT team identified key requirements for OctoFit Tracker:
 - Secure authentication based on Monafit Tracker's implementation
 - Activity verification system to prevent cheating
 
+### Using the Codespace Endpoint
+
+The OctoFit Tracker backend is accessible via the following Codespace URL:
+
+`https://zany-sniffle-4j9q44x65q4fj56r-8000.app.github.dev`
+
+Ensure that the backend is running and accessible at this URL for testing API endpoints.
+
 ## Current Development Status
 
 Paul and Jessica have set up a GitHub Codespace environment and are making remarkable progress with GitHub Copilot agent mode. By adapting the Monafit Tracker's structure, the OctoFit Tracker prototype already includes:
